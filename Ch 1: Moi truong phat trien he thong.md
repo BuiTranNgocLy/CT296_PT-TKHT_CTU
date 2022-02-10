@@ -36,5 +36,16 @@
 ## e. Hệ hỗ trợ ra quyết định (Decision Support Systems)
 - Hỗ trợ tổ chức trong các hoạt động ra quyết định cần sự `phán xét, chứng thực` với 1 chuỗi hành động
 - Hỗ trợ quản lí cấp trung & cấp cao bằng cách `phân tích khối lượng lớn dữ liệu` phi cấu trúc & `tích lũy thông tin` có thể giúp giải quyết vấn đề.
-- Cần đưa ra quyết định cần có cơ sở `(dữ liệu)` -> lấy dữ liệu từ hệ thống giao dịch của Hệ cơ sở dữ `(TPS)`, sử dụng lấy từ bên 
+
+![image](https://user-images.githubusercontent.com/88178841/153407018-153cf3ac-a54b-4a92-94f5-985321bd8501.png)
+- Đưa ra quyết định cần có `databse`
+- Lấy dữ liệu từ hệ thống giao dịch của Hệ cơ sở dữ `(TPS)` + sử dụng dữ liệu từ bên ngoài `Extemal Data`
+- Dữ liệu sau khi tổng hợp từ nhiều nguồn -> tiếp cận theo hướng kho dữ liệu `data warehouse` -> quản lí đồng thời dữ liệu cso định dạng/cầu trúc khác nhau.
+- Công cụ gợi ý đưa ra quyết định
+  - `OLAP Tools`: đơn giản, cung cấp các góc nhìn, cách thức -> hỗ trợ người dùng đưa ra quyết định
+  - `Data Mining Tools`: tương đối phức tạp -> khai phá dữ liệu
+  - `DSS Models`: mô hình ra quyết định -> sử dụng tham số đầu vào 
 ## f. Hệ thống hỗ trợ điều hành (Executive Support System)
+- HTTT quản trị được `chuyên biệt hóa cho cấp lãnh đạo`, cung cấp thông tin chiến lược cho lãnh đạo
+- Cung cấp khả năng `truy cập tức thời và dễ dàng` đến các `thông tin chọn lọc` liên quan yếu tố then chốt `đạt được mục tiêu chiến lược`
+- => `Xây dựng hệ thống TỔNG `
