@@ -49,3 +49,6 @@
 - HTTT quản trị được `chuyên biệt hóa cho cấp lãnh đạo`, cung cấp thông tin chiến lược cho lãnh đạo
 - Cung cấp khả năng `truy cập tức thời và dễ dàng` đến các `thông tin chọn lọc` liên quan yếu tố then chốt `đạt được mục tiêu chiến lược`
 - => `Xây dựng hệ thống TỔNG QUÁT`
+# 4. Các giai đoạn phát triển hệ thống
+![image](https://user-images.githubusercontent.com/88178841/153413082-1fbf8ee2-6b84-43a9-852e-f02c906b6a88.png)
+
