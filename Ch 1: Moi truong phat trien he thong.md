@@ -30,6 +30,11 @@
 - Giúp tổ chức
   - Tăng năng suất
   - Cải thiện hiệu quả quản trị
-  - Nâng cao sự hài 
+  - Nâng cao sự hài lòng của khách hàng
+  - Thu hút và khai thác nhân tài
+  - Khuyến khích học hỏi, chia sẻ
 ## e. Hệ hỗ trợ ra quyết định (Decision Support Systems)
+- Hỗ trợ tổ chức trong các hoạt động ra quyết định cần sự `phán xét, chứng thực` với 1 chuỗi hành động
+- Hỗ trợ quản lí cấp trung & cấp cao bằng cách `phân tích khối lượng lớn dữ liệu` phi cấu trúc & `tích lũy thông tin` có thể giúp giải quyết vấn đề.
+- Cần đưa ra quyết định cần có cơ sở `(dữ liệu)` -> lấy dữ liệu từ hệ thống giao dịch của Hệ cơ sở dữ `(TPS)`, sử dụng lấy từ bên 
 ## f. Hệ thống hỗ trợ điều hành (Executive Support System)
