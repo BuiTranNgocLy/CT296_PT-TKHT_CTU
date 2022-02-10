@@ -48,4 +48,4 @@
 ## f. Hệ thống hỗ trợ điều hành (Executive Support System)
 - HTTT quản trị được `chuyên biệt hóa cho cấp lãnh đạo`, cung cấp thông tin chiến lược cho lãnh đạo
 - Cung cấp khả năng `truy cập tức thời và dễ dàng` đến các `thông tin chọn lọc` liên quan yếu tố then chốt `đạt được mục tiêu chiến lược`
-- => `Xây dựng hệ thống TỔNG `
+- => `Xây dựng hệ thống TỔNG QUÁT`
