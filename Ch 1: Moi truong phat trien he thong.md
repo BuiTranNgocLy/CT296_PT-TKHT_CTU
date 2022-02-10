@@ -52,3 +52,13 @@
 # 4. Các giai đoạn phát triển hệ thống
 ![image](https://user-images.githubusercontent.com/88178841/153413082-1fbf8ee2-6b84-43a9-852e-f02c906b6a88.png)
 
+## Phân tích là làm gì?
+- `Hiểu về` hệ thống cần phải xây dựng `(chức năng, nhiệm vụ, vai trò)`
+- `Thu nhập & diễn giải` các dữ kiện, `xác định` vấn đề, `phân rã` 1 hệ thống thành các thành phần của nó.
+- `Kĩ thuật giải quyết vấn đề` -> cải thiện hệ thống, đảm bảo các thành phần hoạt động hiệu quả.
+- Trả lời câu hỏi: `Hệ thống phải làm gì? Vì sao phải làm như vậy? Có thể làm được hay không?`
+## Thiết kế là làm gì?
+- `Chỉ ra` cách thức xây dựng hệ thống
+- `Đánh giá` các giải pháp & `lựa chọn giải pháp tốt nhất`
+- So sánh/đánh giá dựa trên bản chất/kĩ thuật khi triển khai thực tế
+- Trả lời câu hỏi: `Yêu cầu đó, chức năng đó làm như thế nào?`
