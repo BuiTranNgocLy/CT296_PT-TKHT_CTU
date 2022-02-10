@@ -13,7 +13,7 @@ Phân tích &amp; thiết kế hệ thống - Author Bui Tran Ngoc Ly
   - Thiết kế thành phần xử lý
   - Thiết kế giao diện người máy cơ bản,
 ## Chương 1: Môi trường phát triển hệ thống
-- [Khái niệm hệ thống, hệ thống thông tin]()
+- [Khái niệm hệ thống, hệ thống thông tin](https://bitly.com.vn/5jf5t5)
 - [Các thành phần của hệ thống thông tin]()
 - [Các loại hệ thống thông tin]()
 - [Các giai đoạn phát triển hệ thống]()
