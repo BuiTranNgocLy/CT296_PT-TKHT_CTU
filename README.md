@@ -18,7 +18,7 @@ Phân tích &amp; thiết kế hệ thống - Author Bui Tran Ngoc Ly
 - [Các loại hệ thống thông tin](https://bitly.com.vn/kjlykh)
 - [Các giai đoạn phát triển hệ thống](https://bitly.com.vn/s8zc0v)
 - [Phân tích là làm gì?](https://bitly.com.vn/60b471)
-- [Thiết kế là làm gì?]()
+- [Thiết kế là làm gì?](https://bitly.com.vn/ei9fgz)
 ## Chương 2: Quản trị yêu cầu người dùng
 ## Chương 3: Mô hình hóa Quy trình nghiệp vụ
 ## Chương 4: Mô hình hóa dữ liệu
